@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm drmcodes</h1>
-<h3 align="center">I specialize in full-stack web development, with a strong emphasis on JavaScript frameworks and libraries. My journey in programming started with a curiosity about how websites work, and it quickly turned into a full-fledged passion. When I'm not coding, you can find me watching videos about programming or enjoying a good book.</h3>
+<p align="center">I specialize in full-stack web development, with a strong emphasis on JavaScript frameworks and libraries. My journey in programming started with a curiosity about how websites work, and it quickly turned into a full-fledged passion. When I'm not coding, you can find me watching videos about programming or enjoying a good book.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drmcodes&label=Profile%20views&color=0e75b6&style=flat" alt="drmcodes" /> </p>
 
