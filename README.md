@@ -14,8 +14,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drmcodes&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=drmcodes&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple" />
 </div>
+
 
 ###
 
@@ -27,8 +28,8 @@
 
 <div align="center">
   <a href="https://drmcodes-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My Website&logo=googlechrome&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio%20Web-007ACC?style=for-the-badge&logo=internet-explorer&logoColor=white" height="35" alt="Portfolio Web badge" />
+</a>
   <a href="https://mail.google.com/mail/u/3/?pli=1#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
