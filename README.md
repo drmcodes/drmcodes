@@ -1,31 +1,22 @@
 <h1 align="center">Hi 👋, I'm drmcodes</h1>
 <p align="center">I specialize in full-stack web development, with a strong emphasis on JavaScript frameworks and libraries. When I'm not coding, you can find me watching videos about programming or enjoying a good book.</p>
-
 ###
-
 ## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,solidity,jest,git,github,postman" height="30" alt="Tech stack icons" />
 </div>
-
 ###
-
 ## 📊 GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=drmcodes&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple](https://github-stats.vercel.app/api?username=drmcodes&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-stats.vercel.app/api?username=drmcodes&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple" alt="GitHub Stats" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=drmcodes&theme=midnight-purple" alt="GitHub Streak" />
+  
+</div>
 ###
-
-
-
-###
-
 ## 🌐 Connect with me:
-
 <div align="center">
   <a href="https://drmcodes-dev.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio%20Web-007ACC?style=for-the-badge&logo=internet-explorer&logoColor=white" height="35" alt="Portfolio Web badge" />
